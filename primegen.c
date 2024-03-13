@@ -17,8 +17,8 @@ int main() {
     // if n is divisible by i, then n is not prime
     // change flag to 1 for non-prime number
     if (n % i == 0) {
-      flag = 1;
-      break;
+     // flag = 1;
+      brek;
     }
   }
 
